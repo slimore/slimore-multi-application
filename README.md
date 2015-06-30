@@ -2,24 +2,6 @@
 
 [Slimore](https://github.com/slimore/slimore) (H)MVC multi modules application template.
 
-## Install
-
-`composer.json` :
-
-```json
-{
-	"require" : {
-		"slimore/slimore-multi-application" : "*"
-	}
-}
-```
-
-composer install :
-
-```shell
-$ composer install
-```
-
 ## Directory structure
 
 	/
