@@ -2,6 +2,14 @@
 
 [Slimore](https://github.com/slimore/slimore) (H)MVC multi modules application template.
 
+## Usage
+
+	$ git clone https://github.com/slimore/slimore-multi-application.git
+	# rename
+	$ mv ./slimore-multi-application ./your-project-name
+	$ cd ./your-project-name
+	$ composer install
+
 ## Directory structure
 
 	/
